@@ -1,2 +1,2 @@
 # pasangan-angka
-Ulangan JavaScript 30 Juli 2021
+Ulangan JavaScript 4 Agustus 2021
